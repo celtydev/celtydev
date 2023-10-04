@@ -1,59 +1,84 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            text-align: center;
-            font-family: Arial, sans-serif;
-        }
-        h1, h3 {
-            text-align: center;
-        }
-        p {
-            text-align: left;
-        }
-        .center {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        .social-icons {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 20px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Hi 👋, I'm Ally</h1>
-    <h3>Hello, my name is Ally, and I'm 23 years old. I am the creator and developer of two exciting projects on the Discord platform: Slywinter and SmartEngine. In addition to that, I play a crucial role as a moderator and assistant for the BadProtect project.</h3>
-    <div class="center">
-        <img src="https://komarev.com/ghpvc/?username=celtydev&label=Profile%20views&color=0e75b6&style=flat" alt="celtydev" />
-    </div>
-    
-    <div class="center">
-        <div class="project-details">
-            <p>🔭 I’m currently working on <a href="https://smartengine-bot.com">SmartEngine</a></p>
-            <p>🌱 I’m currently learning Java</p>
-            <p>🤝 I’m looking for help with Slywinter</p>
-            <p>👨‍💻 All of my projects are available at <a href="https://celtydev.ca">celtydev.ca</a></p>
-            <p>📫 How to reach me <a href="mailto:allycestelar@outlook.com">allycestelar@outlook.com</a></p>
-        </div>
-    </div>
-    
-    <h3 align="left">Connect with me:</h3>
-    <div class="social-icons">
-        <a href="https://dev.to/celtydev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="celtydev" height="30" width="40" /></a>
-        <a href="https://instagram.com/celtydev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="celtydev" height="30" width="40" /></a>
-        <a href="https://www.youtube.com/c/celtydev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="celtydev" height="30" width="40" /></a>
-        <a href="https://discord.gg/protection" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="protection" height="30" width="40" /></a>
-    </div>
-    
-    <h3 align="left">Languages and Tools:</h3>
-    <div class="center">
-        <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-        <!-- Add more icons for languages and tools as needed -->
-    </div>
-</body>
-</html>
+# Hi 👋, I'm Ally
+
+Hello, my name is Ally, and I'm 23 years old. I am the creator and developer of two exciting projects on the Discord platform: Slywinter and SmartEngine. In addition to that, I play a crucial role as a moderator and assistant for the BadProtect project.
+
+![Profile Views](https://komarev.com/ghpvc/?username=celtydev&label=Profile%20views&color=0e75b6&style=flat)
+
+- 🔭 I’m currently working on [SmartEngine](https://smartengine-bot.com)
+- 🌱 I’m currently learning **Java**
+- 🤝 I’m looking for help with **Slywinter**
+- 👨‍💻 All of my projects are available at [https://celtydev.ca](https://celtydev.ca)
+- 📫 How to reach me: allycestelar@outlook.com
+
+## Connect with me:
+
+[![dev.to](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg)](https://dev.to/celtydev)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/celtydev)
+[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/c/celtydev)
+[![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/protection)
+
+## Languages and Tools:
+
+- [Angular](https://angular.io)
+- [AngularJS](https://angular.io)
+- [Apache Cordova](https://cordova.apache.org/)
+- [Arduino](https://www.arduino.cc/)
+- [Babel](https://babeljs.io/)
+- [Backbone.js](https://backbonejs.org)
+- [GNU Bash](https://www.gnu.org/software/bash/)
+- [Bootstrap](https://getbootstrap.com)
+- [Bulma](https://bulma.io/)
+- [C](https://www.cprogramming.com/)
+- [CanvasJS](https://canvasjs.com)
+- [Chart.js](https://www.chartjs.org)
+- [CoffeeScript](https://coffeescript.org)
+- [C++](https://www.w3schools.com/cpp/)
+- [C#](https://www.w3schools.com/cs/)
+- [CSS3](https://www.w3schools.com/css/)
+- [Docker](https://www.docker.com/)
+- [.NET](https://dotnet.microsoft.com/)
+- [Electron](https://www.electronjs.org)
+- [Elixir](https://elixir-lang.org)
+- [Erlang](https://www.erlang.org/)
+- [Express.js](https://expressjs.com)
+- [Flutter](https://flutter.dev)
+- [Git](https://git-scm.com/)
+- [Go](https://golang.org)
+- [GraphQL](https://graphql.org)
+- [GTK](https://www.gtk.org/)
+- [Gulp](https://gulpjs.com)
+- [Apache Hadoop](https://hadoop.apache.org/)
+- [Ionic](https://ionicframework.com)
+- [Java](https://www.java.com)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Kotlin](https://kotlinlang.org)
+- [Linux](https://www.linux.org/)
+- [MariaDB](https://mariadb.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server)
+- [MySQL](https://www.mysql.com/)
+- [NativeScript](https://nativescript.org/)
+- [NestJS](https://nestjs.com/)
+- [Next.js](https://nextjs.org/)
+- [Nginx](https://www.nginx.com/)
+- [Node.js](https://nodejs.org)
+- [Oracle](https://www.oracle.com/)
+- [PHP](https://www.php.net)
+- [PostgreSQL](https://www.postgresql.org)
+- [Python](https://www.python.org)
+- [RabbitMQ](https://www.rabbitmq.com)
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Redux](https://redux.js.org)
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Rust](https://www.rust-lang.org)
+- [Sass](https://sass-lang.com)
+- [Scala](https://www.scala-lang.org)
+- [SQLite](https://www.sqlite.org/)
+- [Svelte](https://svelte.dev)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vue.js](https://vuejs.org/)
+- [VuePress](https://vuepress.vuejs.org/)
+- [Vuetify](https://vuetifyjs.com/en/)
+- [Webpack](https://webpack.js.org)
+- [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
